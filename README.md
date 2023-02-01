@@ -1,4 +1,4 @@
-# Webcrawler
+# Webscrapper
 A basic webcrawler using webdriver python
 
 It can be used to pull data in csv format or html format from any website, just -
